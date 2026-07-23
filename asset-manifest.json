@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/globecash/static/css/main.60b2e510.css",
+    "main.js": "/globecash/static/js/main.4723870a.js",
+    "static/js/453.a69e2b39.chunk.js": "/globecash/static/js/453.a69e2b39.chunk.js",
+    "index.html": "/globecash/index.html",
+    "main.60b2e510.css.map": "/globecash/static/css/main.60b2e510.css.map",
+    "main.4723870a.js.map": "/globecash/static/js/main.4723870a.js.map",
+    "453.a69e2b39.chunk.js.map": "/globecash/static/js/453.a69e2b39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60b2e510.css",
+    "static/js/main.4723870a.js"
+  ]
+}
