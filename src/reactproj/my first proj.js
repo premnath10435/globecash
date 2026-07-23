@@ -416,7 +416,7 @@ function End(){
                                 </div>
 
                                 <div className=" col-md-4 col-sm-4 col-xs-6 ">
-                                <h4 className="color:red">Review</h4>
+                             <h4 style={{ color: "red" }}>Review</h4>
                                 </div>
 
                                 </div>
