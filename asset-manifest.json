@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/globecash/static/css/main.60b2e510.css",
-    "main.js": "/globecash/static/js/main.f8d6d0bc.js",
+    "main.js": "/globecash/static/js/main.cdc854cf.js",
     "static/js/453.a69e2b39.chunk.js": "/globecash/static/js/453.a69e2b39.chunk.js",
     "index.html": "/globecash/index.html",
     "main.60b2e510.css.map": "/globecash/static/css/main.60b2e510.css.map",
-    "main.f8d6d0bc.js.map": "/globecash/static/js/main.f8d6d0bc.js.map",
+    "main.cdc854cf.js.map": "/globecash/static/js/main.cdc854cf.js.map",
     "453.a69e2b39.chunk.js.map": "/globecash/static/js/453.a69e2b39.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.60b2e510.css",
-    "static/js/main.f8d6d0bc.js"
+    "static/js/main.cdc854cf.js"
   ]
 }
