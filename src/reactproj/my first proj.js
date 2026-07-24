@@ -52,16 +52,16 @@ function End(){
     </nav>
   </section>
 
- <h1 className="three">Solve online payments with one  <br/>easy solution.</h1>
+ <h1 className="three">Convert Currency Instant with real <br/>time exchange rate.</h1>
  <br/>
 
- <h4 className="two">Save on hidden conversion fees when you use your Globecash Travel card, or send money abroad.</h4>
+ <h4 className="two">Convert currencies quickly and compare exchange rates with GlobeCash Currency Converter.</h4>
 
 
 
 <img src="image/img1.png" alt="banner" className= "img-responsive">
 </img>
-<h2 className="eight">Join 75+ million customers worldwide and 13 million in the UK</h2>
+<h2 className="eight">Convert between multiple currencies with a simple and responsive interface.</h2>
 
 <div className="container">
     <div className="row">
@@ -102,31 +102,31 @@ function End(){
         </div>
 
 </div>
-        <h1 className="seven">A checkout solution built <br/>for success</h1>
+        <h1 className="seven">Fast and Accurate Currency <br/> Conversion</h1>
         <br></br>
 
         <div className="container">
             <div className="row">
                 <div className="col-md-3 col-sm-4 col-xs-6">
-                    <h3 className="seven">Let your customers<br/> pay their way</h3>
+                    <h3 className="seven">Convert currencies <br/> n seconds pay their way</h3>
                 
                     <h4 className="six">Let your customers pay their way. Accept Apple Pay, Google Pay, credit cards and country-specific payment options worldwide.</h4>
                 </div>
 
                 <div className="col-md-3 col-sm-4 col-xs-6">
-                    <h3 className="seven">All-in-one payment solution</h3>
+                    <h3 className="seven">Multiple Currency Support</h3>
                     <br></br>
                     <h4 className="six">You don't have to juggle multiple providers offer the digital payment options your customers prefer and manage them all in one place.</h4>
                 </div>
 
                  <div className="col-md-3 col-sm-4 col-xs-6">
-                    <h3 className="seven">Online checkout</h3>
+                    <h3 className="seven">Instant Exchange Rate Calculation</h3>
                    
                     <h4 className="six">Help increase successful transactions with our secure vaulting technology that lets your customer save their payment details for next time. Plus enjoy enhanced security with fraud and risk management tools.</h4>
                  </div>
 
                   <div className="col-md-3 col-sm-4 col-xs-6">
-                    <h3 className="seven">Easy global accessibility</h3>
+                    <h3 className="seven">Supports Multiple International Currencies</h3>
                    
                     <h4 className="six">Complete Payments is available <br/>around the world and works with many ecommerce platforms.You can reach more customers by accepting payments from shoppers everywhere even if theydon't use Globecash.</h4>
                   </div>
@@ -135,7 +135,7 @@ function End(){
         </div>
        
 
-        <h1 className="box">Bring all your payment methods together in one account.</h1>
+        <h1 className="box">Convert between INR, USD, EUR, and GBP in one place.</h1>
         <center><h4>Offer Globecash alongside some of the most popular payment methods to help drive conversion at checkout and reduce cart abandonment.</h4></center>
        
 
@@ -161,7 +161,7 @@ function End(){
             <div className="row">
                  <div className="col-md-6 col-sm-6 col-xs-12">
                
-                <h1 className="nine">Card processing</h1>
+                <h1 className="nine">Currency Exchange Calculator</h1>
                 <hr></hr>
                <h4 className="eleven"> Process all major credit and debit cards and alternative payment methods from around the world. Plus, with our secure vaulting capabilities customers can save their payment details for a seamless checkout every time they come back.</h4>
                 </div>
@@ -182,7 +182,7 @@ function End(){
             </div>
 
              <div className="col-md-6 col-sm-6 col-xs-12">
-                <h1 className="ten">Safe at every step</h1>
+                <h1 className="ten">Reliable Currency Conversion</h1>
                 <br/><br/>
                 <h4 className="eleven">100,000 new customers join Wise every month. Here’s how we keep their rupees secure.</h4>
                 <hr></hr>
