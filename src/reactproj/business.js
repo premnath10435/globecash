@@ -63,7 +63,7 @@ function Business(){
         <div className="col-md-6 col-sm-4 col-xs-6">
             <br/><br/><br/><br/><br/><br/>
             <br/><br/><br/>
-            <h1 className="seventh"> GET PAID MORE FROM<br/>INTERNATIONAL CLIENTS</h1>
+            <h1 className="seventh"> REAL-TIME<br/>CURRENCY CONVERTER</h1>
             <br/><br/><br/>
             <h4 className="">You shouldn’t have to pay more to do business with the world. Save on international payments and get more back to help your business grow.</h4>
         </div>
