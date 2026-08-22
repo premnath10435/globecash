@@ -299,3 +299,69 @@ button:hover{
 }
 
 }
+================================================
+
+
+/* NAVBAR */
+
+.navbar {
+    margin-bottom: 0;
+}
+
+.navbar-default {
+    background-color: white;
+    border: none;
+    border-radius: 0;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #111;
+    font-size: 16px;
+    padding: 20px 18px;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+    color: #142c8e;
+    background-color: transparent;
+}
+
+
+/* MOBILE */
+
+@media (max-width: 767px) {
+
+    .navbar {
+        min-height: 52px;
+    }
+
+    .navbar-header {
+        min-height: 52px;
+    }
+
+    .navbar-toggle {
+        float: left;
+        margin-left: 10px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .navbar-collapse {
+        border-top: 1px solid #ddd;
+        box-shadow: none;
+    }
+
+    .navbar-nav {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    .navbar-nav > li {
+        width: 100%;
+    }
+
+    .navbar-nav > li > a {
+        padding: 14px 15px !important;
+        border-bottom: 1px solid #eee;
+    }
+
+}
