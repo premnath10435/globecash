@@ -7,17 +7,19 @@ function BookDelete() {
 
     function deleteBook() {
 
-        axios.delete(`http://localhost:8080/api/delete/${id}`)
+        axios.delete(
+            `https://book-library-management-system-backend-roj6.onrender.com/api/delete/${id}`
+        )
 
-            .then((response) => {
-                alert("Book Deleted Successfully");
-                console.log(response.data);
-            })
+        .then((response) => {
+            alert("Book Deleted Successfully");
+            console.log(response.data);
+        })
 
-            .catch((error) => {
-                console.log(error);
-                alert("Book Delete Failed");
-            });
+        .catch((error) => {
+            console.log(error);
+            alert("Book Delete Failed");
+        });
     }
 
     return (

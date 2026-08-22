@@ -27,22 +27,27 @@ function BookUpdate() {
 
         const data = {
             ...book,
+            id: Number(book.id),
             price: Number(book.price)
         };
 
         console.log(data);
 
-        axios.put("http://localhost:8080/api/update", data)
+        axios.put(
+            "https://book-library-management-system-backend-roj6.onrender.com/api/update",
+            data
+        )
 
-            .then((response) => {
-                alert("Book Updated Successfully");
-                console.log(response.data);
-            })
+        .then((response) => {
+            alert("Book Updated Successfully");
+            console.log(response.data);
+        })
 
-            .catch((error) => {
-                console.log(error.response?.data);
-                console.log(error);
-            });
+        .catch((error) => {
+            console.log(error.response?.data);
+            console.log(error);
+            alert("Book Update Failed");
+        });
     }
 
     return (
