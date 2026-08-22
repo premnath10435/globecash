@@ -1,13 +1,11 @@
-import "bootstrap/dist/css/bootstrap.min.css";
-import React from "react";
-import M from "./reactproj/bookrouter";
+import S from "./reactproj/router";
 
 function App() {
   return (
-    <>
-      <M />
-    </>
-  );
-}
+   <>
+   <S/>
+   </>
 
+  )
+}
 export default App;
