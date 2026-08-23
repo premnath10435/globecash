@@ -8,7 +8,7 @@ import Converter from "./currency converter";
 
 function Router() {
   return (
-    <BrowserRouter basename="/globecash">
+    <BrowserRouter>
       <Routes>
         <Route path="/" element={<MyFirstProj />} />
         <Route path="/business" element={<Business />} />
