@@ -63,7 +63,7 @@ function End() {
         Compare currencies and understand the value of your money worldwide.
       </h4>
 
-      <img src="image/img1.png" alt="Currency conversion" className="img-responsive"></img>
+      <img src="/globecash/image/img1.png" alt="Currency conversion" className="img-responsive"></img>
 
       <h2 className="eight">
         Simple and reliable currency conversion for everyone
@@ -74,7 +74,7 @@ function End() {
 
           <div className="col-md-4 col-sm-4 col-xs-6">
             <img
-              src="image/img2.png"
+              src="/globecash/image/img2.png"
               alt="Currency exchange"
               className="img-responsive"
             ></img>
@@ -88,7 +88,7 @@ function End() {
 
           <div className="col-md-4 col-sm-4 col-xs-6">
             <img
-              src="image/img5.png"
+              src="/globecash/image/img5.png"
               alt="Exchange rates"
               className="img-responsive"
             ></img>
@@ -102,7 +102,7 @@ function End() {
 
           <div className="col-md-4 col-sm-4 col-xs-6">
             <img
-              src="image/img3.png"
+              src="/globecash/image/img3.png"
               alt="Global currencies"
               className="img-responsive"
             ></img>
@@ -121,7 +121,7 @@ function End() {
 
       <center>
         <img
-          src="image/img4.png"
+          src="/globecash/image/img4.png"
           alt="Currency converter"
           className="img-responsive"
         ></img>
@@ -132,7 +132,7 @@ function End() {
 
           <div className="col-md-6 col-sm-4 col-xs-6">
             <img
-              src="image/img6.png"
+              src="/globecash/image/img6.png"
               alt="Currency exchange"
               className="img-responsive"
             ></img>
@@ -140,7 +140,7 @@ function End() {
 
           <div className="col-md-6 col-sm-4 col-xs-6">
             <img
-              src="image/img7.png"
+              src="/globecash/image/img7.png"
               alt="Currency conversion"
               className="img-responsive"
             ></img>
@@ -229,7 +229,7 @@ function End() {
 
           <div className="col-md-4 col-xs-6 col-sm-4">
             <img
-              src="image/img9.png"
+              src="/globecash/image/img9.png"
               alt="Currency conversion"
               height="#"
               width="400"
@@ -277,7 +277,7 @@ function End() {
 
           <div className="col-md-6 col-sm-6 col-xs-12">
             <img
-              src="image/img10.png"
+              src="/globecash/image/img10.png"
               alt="Currency conversion"
               height="#"
               width="400"
@@ -293,7 +293,7 @@ function End() {
 
           <div className="col-md-6 col-sm-6 col-xs-12">
             <img
-              src="image/img11.webp"
+              src="/globecash/image/img11.webp"
               alt="Currency rates"
               height="#"
               width="400"
@@ -361,7 +361,7 @@ function End() {
 
           <div className="col-md-6 col-sm-6 col-xs-12">
             <img
-              src="image/img12.png"
+              src="/globecash/image/img12.png"
               alt="Global currency conversion"
               height="#"
               width="400"
@@ -382,82 +382,82 @@ function End() {
         <div className="row">
 
           <div className=" col-md-3 col-sm-4 col-xs-6 ">
-            <img src="image/img13.png" alt="India currency" className="img-responsive"></img>
+            <img src="/globecash/image/img13.png" alt="India currency" className="img-responsive"></img>
             <h4 className="tweel">India - INR</h4>
           </div>
 
           <div className=" col-md-3 col-sm-4 col-xs-6 ">
-            <img src="image/img14.png" alt="Indonesia currency" className="img-responsive"></img>
+            <img src="/globecash/image/img14.png" alt="Indonesia currency" className="img-responsive"></img>
             <h4 className="tweel">Indonesia - IDR</h4>
           </div>
 
           <div className=" col-md-3 col-sm-4 col-xs-6 ">
-            <img src="image/img15.png" alt="Iran currency" className="img-responsive"></img>
+            <img src="/globecash/image/img15.png" alt="Iran currency" className="img-responsive"></img>
             <h4 className="tweel">Iran - IRR</h4>
           </div>
 
           <div className=" col-md-3 col-sm-4 col-xs-6 ">
-            <img src="image/img16.png" alt="Afghanistan currency" className="img-responsive"></img>
+            <img src="/globecash/image/img16.png" alt="Afghanistan currency" className="img-responsive"></img>
             <h4 className="tweel">Afghanistan - AFN</h4>
           </div>
 
           <div className=" col-md-3 col-sm-4 col-xs-6 ">
-            <img src="image/img17.png" alt="Papua New Guinea currency" className="img-responsive"></img>
+            <img src="/globecash/image/img17.png" alt="Papua New Guinea currency" className="img-responsive"></img>
             <h4 className="tweel">Papua New Guinea - PGK</h4>
           </div>
 
           <div className="col-md-3 col-sm-4 col-xs-6">
-            <img src="image/img18.png" alt="Iraq currency" className="img-responsive"></img>
+            <img src="/globecash/image/img18.png" alt="Iraq currency" className="img-responsive"></img>
             <h4 className="tweel">Iraq - IQD</h4>
           </div>
 
           <div className="col-md-3 col-sm-4 col-xs-6">
-            <img src="image/img19.png" alt="Ireland currency" className="img-responsive"></img>
+            <img src="/globecash/image/img19.png" alt="Ireland currency" className="img-responsive"></img>
             <h4 className="tweel">Ireland - EUR</h4>
           </div>
 
           <div className="col-md-3 col-sm-4 col-xs-6">
-            <img src="image/img20.png" alt="Israel currency" className="img-responsive"></img>
+            <img src="/globecash/image/img20.png" alt="Israel currency" className="img-responsive"></img>
             <h4 className="tweel">Israel - ILS</h4>
           </div>
 
           <div className="col-md-3 col-sm-4 col-xs-6">
-            <img src="image/img21.png" alt="Japan currency" className="img-responsive"></img>
+            <img src="/globecash/image/img21.png" alt="Japan currency" className="img-responsive"></img>
             <h4 className="tweel">Japan - JPY</h4>
           </div>
 
           <div className="col-md-3 col-sm-4 col-xs-6">
-            <img src="image/img22.png" alt="Kazakhstan currency" className="img-responsive"></img>
+            <img src="/globecash/image/img22.png" alt="Kazakhstan currency" className="img-responsive"></img>
             <h4 className="tweel">Kazakhstan - KZT</h4>
           </div>
 
           <div className="col-md-3 col-sm-4 col-xs-6">
-            <img src="image/img23.png" alt="Kenya currency" className="img-responsive"></img>
+            <img src="/globecash/image/img23.png" alt="Kenya currency" className="img-responsive"></img>
             <h4 className="tweel">Kenya - KES</h4>
           </div>
 
           <div className="col-md-3 col-sm-4 col-xs-6">
-            <img src="image/img24.png" alt="Kosovo currency" className="img-responsive"></img>
+            <img src="/globecash/image/img24.png" alt="Kosovo currency" className="img-responsive"></img>
             <h4 className="tweel">Kosovo - EUR</h4>
           </div>
 
           <div className="col-md-3 col-sm-4 col-xs-6">
-            <img src="image/img25.png" alt="Kuwait currency" className="img-responsive"></img>
+            <img src="/globecash/image/img25.png" alt="Kuwait currency" className="img-responsive"></img>
             <h4 className="tweel">Kuwait - KWD</h4>
           </div>
 
           <div className="col-md-3 col-sm-4 col-xs-6">
-            <img src="image/img26.png" alt="Italy currency" className="img-responsive"></img>
+            <img src="/globecash/image/img26.png" alt="Italy currency" className="img-responsive"></img>
             <h4 className="tweel">Italy - EUR</h4>
           </div>
 
           <div className="col-md-3 col-sm-4 col-xs-6">
-            <img src="image/img27.png" alt="America currency" className="img-responsive"></img>
+            <img src="/globecash/image/img27.png" alt="America currency" className="img-responsive"></img>
             <h4 className="tweel">America - USD</h4>
           </div>
 
           <div className="col-md-3 col-sm-4 col-xs-6">
-            <img src="image/img28.png" alt="Luxembourg currency" className="img-responsive"></img>
+            <img src="/globecash/image/img28.png" alt="Luxembourg currency" className="img-responsive"></img>
             <h4 className="tweel">Luxembourg - EUR</h4>
           </div>
 
